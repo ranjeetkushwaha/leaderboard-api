@@ -56,3 +56,5 @@ API's are:
 http://localhost:8080/api/v1/team [POST, GET]
 
 http://localhost:8080/api/v1/player [POST, GET]
+
+Health API: http://localhost:8080/actuator/health
